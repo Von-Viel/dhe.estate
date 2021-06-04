@@ -11,6 +11,8 @@ Within the `layout/shortcodes/p` the `p` is a HTML `<p>`. Follow this pattern.
 `<br>` tags must be on their own lines, not appended to the end of an existing
 line.
 
+[example.com](https://example.com)
+
 # A note on copyright from SVG images
 
 Some .svg images from openclipart.org do not display their copyright status or
